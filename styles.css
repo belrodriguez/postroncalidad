@@ -313,6 +313,20 @@ body {
   text-align: center;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
 }
+/* Default back button styles */
+.back-button {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  background: transparent;
+  border: none;
+  color: #fff;
+  font-size: 32px;
+  cursor: pointer;
+  z-index: 3000;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.8);
+}
+
 
 /* Keyframes for the glow effect */
 @keyframes glow {
@@ -327,6 +341,14 @@ body {
 /* Responsive Adjustments */
 
 /* For devices with a max width of 480px */
+@media (max-width: 320px) and (max-width: 479px){
+  .back-button {
+    top: 250px;
+    left: 15px;
+    font-size: 20px;
+  }
+}
+
 @media (max-width: 480px) {
   #start-button {
     width: 80vw;
@@ -369,9 +391,15 @@ body {
     height: auto;
     object-fit: contain;
   }
+  .back-button {
+    top: 275px;
+    left: 15px;
+    font-size: 20px;
+  }
+
 }
 
-@media (max-width: 600px) {
+@media (min-width: 481px) and (max-width: 600px) {
   #frame {
     width: 100vw;
   }
@@ -413,10 +441,15 @@ body {
     height: auto;
     object-fit: contain;
   }
+  .back-button {
+    top: 280px;         /* move it closer to the top */
+    left: 15px;        /* move it closer to the left */
+    font-size: 24px;   /* reduce the font size */
+  }
 }
 
 /* For devices with a max width of 768px */
-@media (min-width: 481px) and (max-width: 768px) {
+@media (min-width: 601px) and (max-width: 768px) {
   /* Adjust the start button size */
   #start-button {
     width: 50vw;
@@ -459,6 +492,11 @@ body {
     width: 150px;
     height: auto;
     object-fit: contain;
+  }
+  .back-button {
+    top: 500px;         /* move it closer to the top */
+    left: 15px;        /* move it closer to the left */
+    font-size: 24px;   /* reduce the font size */
   }
 }
 
