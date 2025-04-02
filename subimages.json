@@ -1,0 +1,456 @@
+[
+    {
+        "filename": "fondo.png",
+        "x": 7,
+        "y": 0,
+        "width": 2365,
+        "height": 1578,
+        "opacity": 1,
+        "visible": true,
+        "zoom": false,
+        "name": "fondo"
+    },
+    {
+        "filename": "colmena.png",
+        "x": 1115,
+        "y": 377,
+        "width": 242,
+        "height": 242,
+        "opacity": 1,
+        "visible": true,
+        "zoom": true,
+        "name": "colmena",
+        "interaction":{
+            "type":"redirect",
+            "url":"https://www.instagram.com/lacolmenadeloszanganos/"
+        }
+    },
+    {
+        "filename": "hawai.png",
+        "x": 98,
+        "y": 1074,
+        "width": 657,
+        "height": 476,
+        "opacity": 1,
+        "visible": true,
+        "zoom": true,
+        "name": "hawai"
+    },
+    {
+        "filename": "supermanzote.png",
+        "x": 741,
+        "y": 1340,
+        "width": 373,
+        "height": 512,
+        "opacity": 1,
+        "visible": true,
+        "zoom": true,
+        "name": "supermanzote",
+        "interaction":{
+            "type":"youtube",
+            "videoId":"3jelwquiBw8",
+            "startTime":"7:50",
+            "endTime":"10:09"
+        }
+    },
+    {
+        "filename": "como esta  relacionado.png",
+        "x": 588,
+        "y": 1472,
+        "width": 288,
+        "height": 285,
+        "opacity": 1,
+        "visible": true,
+        "zoom": false,
+        "name": "como esta  relacionado"
+    },
+    {
+        "filename": "help.png",
+        "x": 140,
+        "y": 561,
+        "width": 391,
+        "height": 285,
+        "opacity": 1,
+        "visible": true,
+        "zoom": true,
+        "name": "help"
+    },
+    {
+        "filename": "aunque usted no lo crea.png",
+        "x": 1571,
+        "y": 539,
+        "width": 364,
+        "height": 360,
+        "opacity": 1,
+        "visible": true,
+        "zoom": true,
+        "name": "aunque usted no lo crea",
+        "interaction":{
+            "type":"youtube",
+            "videoId":"GK5DABK92X8",
+            "startTime":"00:00"
+            
+        }
+    },
+    {
+        "filename": "drones.png",
+        "x": 588,
+        "y": 593,
+        "width": 418,
+        "height": 399,
+        "opacity": 1,
+        "visible": true,
+        "zoom": true,
+        "name": "drones",
+        "interaction":{
+            "type":"youtube",
+            "videoId":"3jelwquiBw8",
+            "startTime":"44:37",
+            "endTime":"46:02"
+        }
+    },
+    {
+        "filename": "futuro.png",
+        "x": 1935,
+        "y": 573,
+        "width": 371,
+        "height": 432,
+        "opacity": 1,
+        "visible": true,
+        "zoom": true,
+        "name": "futuro",
+        "interaction":{
+            "type":"youtube",
+            "videoId":"3jelwquiBw8",
+            "startTime":"1:16:22",
+            "endTime":"1:17:05"
+        }
+    },
+    {
+        "filename": "sus.png",
+        "x": 135,
+        "y": 796,
+        "width": 406,
+        "height": 325,
+        "opacity": 1,
+        "visible": true,
+        "zoom": true,
+        "name": "sus"
+    },
+    {
+        "filename": "angel.png",
+        "x": 1268,
+        "y": 240,
+        "width": 516,
+        "height": 468,
+        "opacity": 1,
+        "visible": true,
+        "zoom": true,
+        "name": "angel",
+        "interaction":{
+            "type":"youtube",
+            "videoId":"3jelwquiBw8",
+            "startTime":"41:37",
+            "endTime":"42:26"
+        }
+    },
+    {
+        "filename": "fuegos.png",
+        "x": 755,
+        "y": 92,
+        "width": 385,
+        "height": 457,
+        "opacity": 1,
+        "visible": true,
+        "zoom": true,
+        "name": "fuegos",
+        "interaction":{
+            "type":"youtube",
+            "videoId":"3jelwquiBw8",
+            "startTime":"33:43",
+            "endTime":""
+        }
+    },
+    {
+        "filename": "ventilacion.png",
+        "x": 434,
+        "y": 306,
+        "width": 380,
+        "height": 438,
+        "opacity": 1,
+        "visible": true,
+        "zoom": true,
+        "name": "ventilacion"
+    },
+    {
+        "filename": "jarp.png",
+        "x": 1012,
+        "y": 1074,
+        "width": 468,
+        "height": 336,
+        "opacity": 1,
+        "visible": true,
+        "zoom": true,
+        "name": "jarp",
+        "interaction":{
+            "type":"youtube",
+            "videoId":"3jelwquiBw8",
+            "startTime":"52:39",
+            "endTime":"57:51"
+        }
+    },
+    {
+        "filename": "blubim.png",
+        "x": 1258,
+        "y": 1197,
+        "width": 337,
+        "height": 435,
+        "opacity": 1,
+        "visible": true,
+        "zoom": true,
+        "name": "blubim",
+        "interaction":{
+            "type":"youtube",
+            "videoId":"3jelwquiBw8",
+            "startTime":"38:46",
+            "endTime":"39:18"
+        }
+    },
+    {
+        "filename": "mulder.png",
+        "x": 1500,
+        "y": 872,
+        "width": 393,
+        "height": 366,
+        "opacity": 1,
+        "visible": true,
+        "zoom": true,
+        "name": "mulder",
+        "interaction":{
+            "type":"youtube",
+            "videoId":"beBwpUaYh0Q"
+        }
+    },
+    {
+        "filename": "satelite.png",
+        "x": 513,
+        "y": 936,
+        "width": 527,
+        "height": 391,
+        "opacity": 1,
+        "visible": true,
+        "zoom": true,
+        "name": "satelite"
+    },
+    {
+        "filename": "men in black.png",
+        "x": 1623,
+        "y": 1093,
+        "width": 391,
+        "height": 395,
+        "opacity": 1,
+        "visible": true,
+        "zoom": true,
+        "name": "men in black"
+    },
+    {
+        "filename": "blue.png",
+        "x": 1153,
+        "y": 107,
+        "width": 327,
+        "height": 327,
+        "opacity": 1,
+        "visible": true,
+        "zoom": true,
+        "name": "blue",
+        "interaction":{
+            "type":"youtube",
+            "videoId":"3jelwquiBw8",
+            "startTime":"32:10",
+            "endTime":"33:39"
+        }
+    },
+    {
+        "filename": "coordenadas.png",
+        "x": 129,
+        "y": 107,
+        "width": 412,
+        "height": 478,
+        "opacity": 1,
+        "visible": true,
+        "zoom": true,
+        "name": "coordenadas",
+        "interaction":{
+            "type":"youtube",
+            "videoId":"3jelwquiBw8",
+            "startTime":"12:00"            
+        }
+    },
+    {
+        "filename": "Marketing.png",
+        "x": 1259,
+        "y": 324,
+        "width": 253,
+        "height": 258,
+        "opacity": 1,
+        "visible": true,
+        "zoom": false,
+        "name": "Marketing"
+    },
+    {
+        "filename": "jose suspenso.png",
+        "x": 1004,
+        "y": 585,
+        "width": 371,
+        "height": 445,
+        "opacity": 1,
+        "visible": true,
+        "zoom": true,
+        "name": "jose suspenso",
+        "interaction":{
+            "type":"youtube",
+            "videoId":"3jelwquiBw8"
+        }
+    },
+    {
+        "filename": "gian kuka.png",
+        "x": 1952,
+        "y": 1015,
+        "width": 391,
+        "height": 454,
+        "opacity": 1,
+        "visible": true,
+        "zoom": true,
+        "name": "gian kuka",
+        "interaction":{
+            "type":"youtube",
+            "videoId":"3jelwquiBw8",
+            "startTime":"1:40:10",
+            "endTime":"1:41:34"
+        }
+    },
+    {
+        "filename": "oraculo.png",
+        "x": 1623,
+        "y": 96,
+        "width": 423,
+        "height": 429,
+        "opacity": 1,
+        "visible": true,
+        "zoom": true,
+        "name": "oraculo"
+    },
+    {
+        "filename": "pitonisa.png",
+        "x": 1893,
+        "y": 86,
+        "width": 394,
+        "height": 469,
+        "opacity": 1,
+        "visible": true,
+        "zoom": false,
+        "name": "pitonisa",
+        "interaction":{
+            "type":"youtube",
+            "videoId":"3jelwquiBw8",
+            "startTime":"1:10:00",
+            "endTime":"1:13:59"
+        }
+    },
+    {
+        "filename": "Misma persona.png",
+        "x": 1831,
+        "y": 323,
+        "width": 241,
+        "height": 250,
+        "opacity": 1,
+        "visible": true,
+        "zoom": false,
+        "name": "Misma persona"
+    },
+    {
+        "filename": "hilos.png",
+        "x": 299,
+        "y": 126,
+        "width": 1883,
+        "height": 1139,
+        "opacity": 1,
+        "visible": true,
+        "zoom": false,
+        "name": "hilos",
+        "disableInteraction": true
+    },
+    {
+        "filename": "cgtbqmas.png",
+        "x": 1080,
+        "y": 1410,
+        "width": 307,
+        "height": 410,
+        "opacity": 1,
+        "visible": true,
+        "zoom": true,
+        "name": "cgtbqmas",
+        "interaction":{
+            "type":"youtube",
+            "videoId":"0fnB30Qo",
+            "startTime":"35:09",
+            "endTime":"46:27"
+        }
+    },
+    {
+        "filename": "tronco.png",
+        "x": 1697,
+        "y": 1424,
+        "width": 419,
+        "height": 448,
+        "opacity": 1,
+        "visible": true,
+        "zoom": true,
+        "name": "tronco"
+    },
+    {
+        "filename": "santiago.png",
+        "x": 1415,
+        "y": 1443,
+        "width": 364,
+        "height": 404,
+        "opacity": 1,
+        "visible": true,
+        "zoom": true,
+        "name": "santiago",
+        "interaction":{
+            "type":"youtube",
+            "videoId":"0fnB30Qo",
+            "startTime":"17:55",
+            "endTime":"18:13"
+        }
+    },
+    {
+        "filename": "parientes.png",
+        "x": 1640,
+        "y": 1583,
+        "width": 198,
+        "height": 202,
+        "opacity": 1,
+        "visible": true,
+        "zoom": false,
+        "name": "parientes"
+    },
+    {
+        "filename": "kici.png",
+        "x": 0,
+        "y": 1414,
+        "width": 529,
+        "height": 375,
+        "opacity": 1,
+        "visible": true,
+        "zoom": true,
+        "name": "kici",
+        "interaction":{
+            "type":"youtube",
+            "videoId":"9KificIso1o",
+            "startTime":"1:00:48",
+            "endTime":"1:07:03"
+        }
+    }
+]

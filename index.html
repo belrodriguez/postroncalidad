@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Collage Webapp</title>
+  <!-- Optional: load a custom font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Limelight&family=Special+Elite&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="images/favicon.ico" type="image/png">
+
+</head>
+<body>
+  <!-- Loading Screen -->
+  <div id="loading-screen">
+    <!-- Start Screen: Black background with a start button (editable image) -->
+    <div id="start-screen">
+      <img id="start-button" src="images/libro.png" alt="Start">
+    </div>
+    <!-- Reveal Screen: Initially hidden; will show 4 images sequentially -->
+    <div id="reveal-screen" style="display: none;">
+      <div id="reveal-container">
+        <img id="reveal-img1" class="reveal-image" src="images/bg1.png" alt="Reveal Image 1">
+        <img id="reveal-img2" class="reveal-image" src="images/Postroncalidad.png" alt="Reveal Image 2">
+        <img id="reveal-img3" class="reveal-image" src="images/con el .png" alt="Reveal Image 3">
+        <img id="reveal-img4" class="reveal-image" src="images/Profe Tronkasky.png" alt="Reveal Image 4">
+      </div>
+    </div>
+  </div>
+
+  <!-- Main Collage Container -->
+  <div id="main-collage">
+    <!-- Collage Frame -->
+    <div id="frame">
+      <div id="collage"></div>
+    </div>
+  </div>
+
+  <!-- Secondary Collage Container -->
+  <div id="sub-collage" style="display:none;">
+    <div id="sub-frame">
+      <div id="sub-collage-images"></div>
+    </div>
+    <button id="back-button" class="back-button">Volver</button>
+  </div>
+  
+  <!-- Popups and Overlays -->
+  <div id="popup-overlay">
+    <div id="popup" class="popup"></div>
+  </div>
+  <div id="warning-overlay"></div>
+
+  <!-- YouTube and Video Containers -->
+  <div id="youtube-container">
+    <button id="close-youtube">X</button>
+    <iframe id="youtube-player" frameborder="0" allowfullscreen></iframe>
+    <button id="open-youtube" style="display:none;">Watch on YouTube</button>
+  </div>
+  <div id="video-container">
+    <button id="close-video">X</button>
+    <video id="local-video" controls></video>
+  </div>
+  
+  <script src="scripts.js"></script>
+</body>
+</html>
