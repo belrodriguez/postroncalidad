@@ -856,7 +856,7 @@
         "height": 400,
         "opacity": 1,
         "visible": true,
-        "zoom": true,
+        "zoom": false,
         "name": "FACTOS",
         "interaction":{
             "type":"youtube",
@@ -873,18 +873,18 @@
         "height": 267,
         "opacity": 1,
         "visible": true,
-        "zoom": true,
+        "zoom": false,
         "name": "Mayorias"
     },
     {
         "filename": "Ale Nagy.png",
-        "x": 784,
-        "y": 447,
+        "x": 785,
+        "y": 464,
         "width": 290,
         "height": 315,
         "opacity": 1,
         "visible": true,
-        "zoom": true,
+        "zoom": false,
         "name": "Ale Nagy",
         "interaction":{
             "type":"redirect",
@@ -899,7 +899,7 @@
         "height": 232,
         "opacity": 1,
         "visible": true,
-        "zoom": true,
+        "zoom": false,
         "name": "SILENCIO"
     },
     {
@@ -910,7 +910,7 @@
         "height": 219,
         "opacity": 1,
         "visible": true,
-        "zoom": true,
+        "zoom": false,
         "name": "regalo del cielo",
         "interaction":{
             "type":"youtube",
@@ -925,7 +925,7 @@
         "height": 290,
         "opacity": 1,
         "visible": true,
-        "zoom": true,
+        "zoom": false,
         "name": "El Ocio",
         "interaction":{
             "type":"youtube",
@@ -941,7 +941,7 @@
         "height": 270,
         "opacity": 1,
         "visible": true,
-        "zoom": true,
+        "zoom": false,
         "name": "veleta",
         "interaction":{
             "type":"youtube",
@@ -952,13 +952,13 @@
     },
     {
         "filename": "ME GUSTA.png",
-        "x": 1148,
-        "y": 251,
+        "x": 574,
+        "y": 13,
         "width": 201,
         "height": 218,
         "opacity": 1,
         "visible": true,
-        "zoom": true,
+        "zoom": false,
         "name": "ME GUSTA",
         "interaction":{
             "type":"youtube",
@@ -969,13 +969,13 @@
     },
     {
         "filename": "SOLEDAD.png",
-        "x": 620,
-        "y": 35,
-        "width": 256,
-        "height": 279,
+        "x": 827,
+        "y": 11,
+        "width": 203,
+        "height": 246,
         "opacity": 1,
         "visible": true,
-        "zoom": true,
+        "zoom": false,
         "name": "SOLEDAD",
         "interaction":{
             "type":"youtube",
@@ -984,14 +984,30 @@
         }
     },
     {
-        "filename": "Pensamiento Fronterizo.png",
-        "x": 57,
-        "y": 38,
-        "width": 249,
-        "height": 331,
+        "filename": "asteroide.png",
+        "x": 1047,
+        "y": 42,
+        "width": 316,
+        "height": 391,
         "opacity": 1,
         "visible": true,
-        "zoom": true,
+        "zoom": false,
+        "name": "asteroide",
+        "interaction":{
+            "type":"youtube",
+            "videoId":"YQz6Md62H-s",
+            "startTime": "5:20"        
+        }
+    },
+    {
+        "filename": "Pensamiento Fronterizo.png",
+        "x": 57,
+        "y": 78,
+        "width": 203,
+        "height": 268,
+        "opacity": 1,
+        "visible": true,
+        "zoom": false,
         "name": "Pensamiento Fronterizo",
         "interaction":{
             "type":"youtube",
@@ -1002,13 +1018,13 @@
     },
     {
         "filename": "OPERECHA.png",
-        "x": 344,
-        "y": 41,
-        "width": 264,
-        "height": 340,
+        "x": 321,
+        "y": 201,
+        "width": 192,
+        "height": 247,
         "opacity": 1,
         "visible": true,
-        "zoom": true,
+        "zoom": false,
         "name": "OPERECHA",
         "interaction":{
             "type":"youtube",
@@ -1019,13 +1035,13 @@
     },
     {
         "filename": "AMIGOS.png",
-        "x": 956,
-        "y": 14,
-        "width": 304,
-        "height": 205,
+        "x": 613,
+        "y": 263,
+        "width": 289,
+        "height": 195,
         "opacity": 1,
         "visible": true,
-        "zoom": true,
+        "zoom": false,
         "name": "AMIGOS",
         "interaction":{
             "type":"youtube",
@@ -1036,13 +1052,13 @@
     },
     {
         "filename": "INGRATO.png",
-        "x": 857,
-        "y": 242,
-        "width": 259,
-        "height": 190,
+        "x": 301,
+        "y": 13,
+        "width": 228,
+        "height": 168,
         "opacity": 1,
         "visible": true,
-        "zoom": true,
+        "zoom": false,
         "name": "INGRATO",
         "interaction":{
             "type":"youtube",
@@ -1095,7 +1111,7 @@
         "height": 346,
         "opacity": 1,
         "visible": true,
-        "zoom": true,
+        "zoom": false,
         "name": "joker2",
         "interaction":{
             "type":"youtube",
@@ -1111,7 +1127,7 @@
         "height": 259,
         "opacity": 1,
         "visible": true,
-        "zoom": true,
+        "zoom": false,
         "name": "Palencia",
         "interaction":{
             "type":"youtube",
@@ -1207,7 +1223,8 @@
                 { "src": "sevenc.png", "caption": "Seven" },
                 { "src": "godfather1c.png", "caption": "El Padrino 1" },
                 { "src": "godfather2c.png", "caption": "El Padrino 2" },
-                { "src": "godfather3c.png", "caption": "El Padrino 3" }  
+                { "src": "godfather3c.png", "caption": "El Padrino 3" },
+                { "src": "scanner.png", "caption": "Scanners" }  
             ] 
         }
     },
@@ -1293,13 +1310,13 @@
     },
     {
         "filename": "Quisiera estar en Casa.png",
-        "x": 325,
-        "y": 381,
-        "width": 459,
-        "height": 357,
+        "x": 370,
+        "y": 470,
+        "width": 343,
+        "height": 267,
         "opacity": 1,
         "visible": true,
-        "zoom": true,
+        "zoom": false,
         "name": "Quisiera estar en Casa",
         "interaction":{
             "type":"youtube",
